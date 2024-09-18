@@ -1,0 +1,17 @@
+body {
+  background: whitesmoke;
+  font-family: "Source Sans 3", system-ui;
+  padding: 2rem;
+}
+
+p {
+  margin: 0 0 0 1rem;
+}
+
+#content, #contentVideo{
+  display:flex;
+}
+
+#image {
+  width: 500px;
+}
